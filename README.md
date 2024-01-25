@@ -1,3 +1,5 @@
+![logo](https://github.com/rushikeshmali066/rushikeshmali/blob/main/GitHub%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rushikesh Mali</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
